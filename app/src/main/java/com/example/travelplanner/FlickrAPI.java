@@ -18,7 +18,7 @@ import javax.net.ssl.HttpsURLConnection;
 
 public class FlickrAPI {
     static final String BASE_URL = "https://api.flickr.com/services/rest";
-    static final String API_KEY = "4bfada23cf7be386b75bcf03b3586539";//zmienić tak żeby api_key nie był widoczny jak wrzucę na git
+    static final String API_KEY = "";//ADD API KEY
     static final String TAG = "TravelPlannerTag";
 
     AddTripActivity addActivity;
